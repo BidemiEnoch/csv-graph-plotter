@@ -1,0 +1,7 @@
+plotty\components\PlotComponent.class
+Main.class
+plotty\components\LinePlot.class
+plotty\CsvData.class
+plotty\Frame.class
+plotty\components\Axis.class
+plotty\components\Point2D.class
